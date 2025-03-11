@@ -16,3 +16,4 @@ memo
 2. tailwind
 3. branching strategy, workflow (ex gitflow, trunk-based)
 4. js syntax - ?.과 ??와 ||
+5. 패키지관리도구 npm과 그 밖에..
