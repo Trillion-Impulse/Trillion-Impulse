@@ -15,3 +15,4 @@ memo
 1. 문서화 주석, doc comments
 2. tailwind
 3. branching strategy, workflow (ex gitflow, trunk-based)
+4. js syntax - ?.과 ??와 ||
