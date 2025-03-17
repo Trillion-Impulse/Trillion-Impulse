@@ -18,3 +18,4 @@ memo
 4. js syntax - ?.과 ??와 ||
 5. 패키지관리도구 npm과 그 밖에..
 6. IDE에서 자동완성과 snippets
+7. js 연산자 - ==과 ===
