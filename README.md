@@ -24,3 +24,4 @@ memo
 10. jquery
 11. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
 12. js 화살표 함수
+13. js callback 함수
