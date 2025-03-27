@@ -26,3 +26,4 @@ memo
 12. js 화살표 함수
 13. js callback 함수
 14. typescript
+15. js let,const 변수선언키워드
