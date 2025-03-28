@@ -27,3 +27,4 @@ memo
 13. js callback 함수
 14. typescript
 15. js let,const 변수선언키워드
+16. js 버전별 업데이트 사항
