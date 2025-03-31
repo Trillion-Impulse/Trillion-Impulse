@@ -29,3 +29,4 @@ memo
 15. js let,const 변수선언키워드
 16. js 버전별 업데이트 사항
 17. js Object.assign vs concat
+18. js const vs Object.freeze
