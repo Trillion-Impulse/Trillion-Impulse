@@ -24,9 +24,8 @@ memo
 10. jquery
 11. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
 12. js 화살표 함수
-13. js callback 함수
-14. typescript
-15. js let,const 변수선언키워드
-16. js 버전별 업데이트 사항
-17. js Object.assign vs concat
-18. js const vs Object.freeze
+13. typescript
+14. js let,const 변수선언키워드
+15. js 버전별 업데이트 사항
+16. js Object.assign vs concat
+17. js const vs Object.freeze
