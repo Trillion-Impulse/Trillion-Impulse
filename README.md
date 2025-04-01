@@ -29,3 +29,4 @@ memo
 15. js 버전별 업데이트 사항
 16. js Object.assign vs concat
 17. js const vs Object.freeze
+18. js promise, async/await
