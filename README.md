@@ -23,10 +23,9 @@ memo
 9. HTML의 엔티티코드에 대하여
 10. jquery
 11. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
-12. js 화살표 함수
-13. typescript
-14. js let,const 변수선언키워드
-15. js 버전별 업데이트 사항
-16. js Object.assign vs concat
-17. js const vs Object.freeze
-18. js promise, async/await
+12. typescript
+13. js let,const 변수선언키워드
+14. js 버전별 업데이트 사항
+15. js Object.assign vs concat
+16. js const vs Object.freeze
+17. js promise, async/await
