@@ -31,4 +31,7 @@ memo
 17. js Template Literal & Tagged Template Literal
 
 feat
-1. vscode - 멀티 커서 - 쉬프트로 텍스트 범위 지정 후 ctrl+d
+1. vscode - 텍스트 범위 선택
+   - 한 글자, 한 줄 - shift + 화살표
+   - 한 단어 - shift + ctrl + 왼/오
+2. vscode - 멀티 커서 - 쉬프트로 텍스트 범위 지정 후 ctrl+d
