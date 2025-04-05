@@ -29,3 +29,6 @@ memo
 15. js const vs Object.freeze
 16. js promise, async/await
 17. js Template Literal & Tagged Template Literal
+
+feat
+1. vscode - 멀티 커서 - 쉬프트로 텍스트 범위 지정 후 ctrl+d
