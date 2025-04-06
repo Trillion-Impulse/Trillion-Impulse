@@ -17,18 +17,17 @@ memo
 3. branching strategy, workflow (ex gitflow, trunk-based)
 4. js syntax - ?.과 ??와 ||
 5. 패키지관리도구 npm과 그 밖에..
-6. IDE에서 자동완성과 snippets
-7. js 연산자 - ==과 ===
-8. HTML에서 &amp;lt;와 같은 엔티티코드를 텍스트로 표시하는 법 (amp 이용)
-9. HTML의 엔티티코드에 대하여
-10. jquery
-11. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
-12. typescript
-13. js 버전별 업데이트 사항
-14. js Object.assign vs concat
-15. js const vs Object.freeze
-16. js promise, async/await
-17. js Template Literal & Tagged Template Literal
+6. js 연산자 - ==과 ===
+7. HTML에서 &amp;lt;와 같은 엔티티코드를 텍스트로 표시하는 법 (amp 이용)
+8. HTML의 엔티티코드에 대하여
+9. jquery
+10. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
+11. typescript
+12. js 버전별 업데이트 사항
+13. js Object.assign vs concat
+14. js const vs Object.freeze
+15. js promise, async/await
+16. js Template Literal & Tagged Template Literal
 
 feat
 1. vscode - 텍스트 범위 선택
