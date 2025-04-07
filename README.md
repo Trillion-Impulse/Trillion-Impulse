@@ -29,6 +29,7 @@ memo
 15. js promise, async/await
 16. js Template Literal & Tagged Template Literal
 17. js parseInt
+18. js isNaN
 
 feat
 1. vscode - 텍스트 범위 선택
