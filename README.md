@@ -28,6 +28,7 @@ memo
 14. js const vs Object.freeze
 15. js promise, async/await
 16. js Template Literal & Tagged Template Literal
+17. js parseInt
 
 feat
 1. vscode - 텍스트 범위 선택
