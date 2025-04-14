@@ -57,6 +57,26 @@ feat
 
 Coding Convention
 1. 반복적, 변경되지 않을 문자열
-    - 상수로 저장하여 관리
-    - 대문자 + 스네이크
-    - ex) ALL_CAPS
+   - 상수로 저장하여 관리
+   - 대문자 + 스네이크
+   - ex) ALL_CAPS
+
+Conventional Commits
+- 기본 구조
+   - <type>(<scope>): <commit message>
+   - type   커밋의 목적 (기능 추가, 수정, 리팩토링 등)
+   - scope   어떤 기능, 모듈, 파일 등에 대한 변경인지 (선택적)
+   - message   변경의 요약 내용
+- 자주 사용하는 type 목록
+   - feat   새로운 기능 추가
+   - fix   버그 수정
+   - refactor   코드 구조 개선 (기능 변화 없음)
+   - style   스타일, 포맷팅 변경 (기능 변화 없음)
+   - test   테스트 코드 관련
+   - chore   빌드, 설정 등 기타 작업
+   - docs   문서 수정
+- scope
+   - <기능/모듈명>/<파일명>
+   - ex) login/index.html
+   - 기능/모듈명 -> 파일명 순서의 이유
+      - 폴더 구조 컨벤션을 따르는 순서라 자연스러움
