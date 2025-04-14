@@ -31,6 +31,7 @@ memo
 17. js parseInt
 18. js isNaN
 19. js BOM, DOM, API 객체
+20. js preventDefault
 
 feat
 1. vscode - 텍스트 범위 선택
