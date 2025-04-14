@@ -53,3 +53,9 @@ feat
 5. vscode - 탭 간 전환
    - ctrl + tab - 빠른 탭 전환
    - ctrl + p - 파일 탐색기
+
+Coding Convention
+1. 반복적, 변경되지 않을 문자열
+    - 상수로 저장하여 관리
+    - 대문자 + 스네이크
+    - ex) ALL_CAPS
