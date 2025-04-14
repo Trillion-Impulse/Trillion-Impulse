@@ -33,6 +33,7 @@ memo
 19. js BOM, DOM, API 객체
 20. js preventDefault
 21. js web storage API - local storage
+22. js className vs classList
 
 feat
 1. vscode - 텍스트 범위 선택
