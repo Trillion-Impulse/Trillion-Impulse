@@ -32,6 +32,7 @@ memo
 18. js isNaN
 19. js BOM, DOM, API 객체
 20. js preventDefault
+21. js web storage API - local storage
 
 feat
 1. vscode - 텍스트 범위 선택
