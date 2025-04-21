@@ -35,7 +35,6 @@ memo
 21. js web storage API - local storage
 22. js className vs classList
 23. js innerText vs innerHTML
-24. js JSON.stringify & JSON.parse
 
 feat
 1. vscode - 텍스트 범위 선택
