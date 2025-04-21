@@ -64,7 +64,7 @@ Coding Convention
 
 Conventional Commits
 - 기본 구조
-   - <type>(<scope>): <commit message>
+   - `<type>(<scope>): <commit message>`
    - type   커밋의 목적 (기능 추가, 수정, 리팩토링 등)
    - scope   어떤 기능, 모듈, 파일 등에 대한 변경인지 (선택적)
    - message   변경의 요약 내용
