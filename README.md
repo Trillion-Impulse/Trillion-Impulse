@@ -27,13 +27,12 @@ memo
 13. js Object.assign vs concat
 14. js const vs Object.freeze
 15. js promise, async/await
-16. js Template Literal & Tagged Template Literal
-17. js isNaN
-18. js BOM, DOM, API 객체
-19. js preventDefault
-20. js web storage API - local storage
-21. js className vs classList
-22. js innerText vs innerHTML
+16. js isNaN
+17. js BOM, DOM, API 객체
+18. js preventDefault
+19. js web storage API - local storage
+20. js className vs classList
+21. js innerText vs innerHTML
 
 feat
 1. vscode - 텍스트 범위 선택
