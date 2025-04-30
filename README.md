@@ -33,6 +33,7 @@ memo
 19. js className vs classList
 20. js innerText vs innerHTML
 21. js Storage API - localStorage vs sessionStorage
+22. python f-string
 
 feat
 1. vscode - 텍스트 범위 선택
