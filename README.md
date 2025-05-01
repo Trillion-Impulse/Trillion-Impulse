@@ -34,6 +34,7 @@ memo
 20. js innerText vs innerHTML
 21. js Storage API - localStorage vs sessionStorage
 22. python f-string
+23. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
 
 feat
 1. vscode - 텍스트 범위 선택
