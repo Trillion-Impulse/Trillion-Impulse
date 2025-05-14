@@ -26,7 +26,7 @@ memo
 12. js 버전별 업데이트 사항
 13. js Object.assign vs concat
 14. js const vs Object.freeze
-15. js promise, async/await
+15. js async/await
 16. js BOM, DOM, API 객체
 17. js preventDefault
 18. js web storage API - local storage
