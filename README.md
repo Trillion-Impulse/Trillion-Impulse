@@ -26,14 +26,13 @@ memo
 12. js 버전별 업데이트 사항
 13. js Object.assign vs concat
 14. js const vs Object.freeze
-15. js async/await
-16. js BOM, DOM, API 객체
-17. js preventDefault
-18. js web storage API - local storage
-19. js className vs classList
-20. js innerText vs innerHTML
-21. js Storage API - localStorage vs sessionStorage
-22. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
+15. js BOM, DOM, API 객체
+16. js preventDefault
+17. js web storage API - local storage
+18. js className vs classList
+19. js innerText vs innerHTML
+20. js Storage API - localStorage vs sessionStorage
+21. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
 
 feat
 1. vscode - 텍스트 범위 선택
