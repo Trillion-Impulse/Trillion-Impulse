@@ -17,22 +17,21 @@ memo
 3. branching strategy, workflow (ex gitflow, trunk-based)
 4. js syntax - ?.과 ??와 ||
 5. 패키지관리도구 npm과 그 밖에..
-6. js 연산자 - ==과 ===
-7. HTML에서 &amp;lt;와 같은 엔티티코드를 텍스트로 표시하는 법 (amp 이용)
-8. HTML의 엔티티코드에 대하여
-9. jquery
-10. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
-11. typescript
-12. js 버전별 업데이트 사항
-13. js Object.assign vs concat
-14. js const vs Object.freeze
-15. js BOM, DOM, API 객체
-16. js preventDefault
-17. js web storage API - local storage
-18. js className vs classList
-19. js innerText vs innerHTML
-20. js Storage API - localStorage vs sessionStorage
-21. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
+6. HTML에서 &amp;lt;와 같은 엔티티코드를 텍스트로 표시하는 법 (amp 이용)
+7. HTML의 엔티티코드에 대하여
+8. jquery
+9. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
+10. typescript
+11. js 버전별 업데이트 사항
+12. js Object.assign vs concat
+13. js const vs Object.freeze
+14. js BOM, DOM, API 객체
+15. js preventDefault
+16. js web storage API - local storage
+17. js className vs classList
+18. js innerText vs innerHTML
+19. js Storage API - localStorage vs sessionStorage
+20. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
 
 feat
 1. vscode - 텍스트 범위 선택
