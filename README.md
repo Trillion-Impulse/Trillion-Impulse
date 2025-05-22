@@ -32,7 +32,7 @@ memo
 18. js innerText vs innerHTML
 19. js Storage API - localStorage vs sessionStorage
 20. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
-21. Promise 메서드(race, any, try, withResolvers)
+21. Promise 메서드(any, try, withResolvers)
 22. JSDoc - 주석
 
 feat
