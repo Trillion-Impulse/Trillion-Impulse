@@ -22,18 +22,17 @@ memo
 8. jquery
 9. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
 10. typescript
-11. js 버전별 업데이트 사항
-12. js Object.assign vs concat
-13. js const vs Object.freeze
-14. js BOM, DOM, API 객체
-15. js preventDefault
-16. js web storage API - local storage
-17. js className vs classList
-18. js innerText vs innerHTML
-19. js Storage API - localStorage vs sessionStorage
-20. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
-21. Promise 메서드(any, try, withResolvers)
-22. JSDoc - 주석
+11. js Object.assign vs concat
+12. js const vs Object.freeze
+13. js BOM, DOM, API 객체
+14. js preventDefault
+15. js web storage API - local storage
+16. js className vs classList
+17. js innerText vs innerHTML
+18. js Storage API - localStorage vs sessionStorage
+19. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
+20. Promise 메서드(any, try, withResolvers)
+21. JSDoc - 주석
 
 feat
 1. vscode - 텍스트 범위 선택
