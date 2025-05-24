@@ -34,7 +34,7 @@ memo
 20. Promise 메서드(any, try, withResolvers)
 21. JSDoc - 주석
 
-feat
+IDE feat
 1. vscode - 텍스트 범위 선택
    - 한 글자, 한 줄 - shift + 화살표
    - 한 단어 - shift + ctrl + 왼/오
