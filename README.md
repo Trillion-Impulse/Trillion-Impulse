@@ -19,19 +19,18 @@ memo
 5. HTML에서 &amp;lt;와 같은 엔티티코드를 텍스트로 표시하는 법 (amp 이용)
 6. HTML의 엔티티코드에 대하여
 7. jquery
-8. 서버사이드렌더링(SSR)과 클라이언트사이드렌더링(CSR)
-9. typescript
-10. js Object.assign vs concat
-11. js const vs Object.freeze
-12. js BOM, DOM, API 객체
-13. js preventDefault
-14. js web storage API - local storage
-15. js className vs classList
-16. js innerText vs innerHTML
-17. js Storage API - localStorage vs sessionStorage
-18. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
-19. Promise 메서드(any, try, withResolvers)
-20. JSDoc - 주석
+8. typescript
+9. js Object.assign vs concat
+10. js const vs Object.freeze
+11. js BOM, DOM, API 객체
+12. js preventDefault
+13. js web storage API - local storage
+14. js className vs classList
+15. js innerText vs innerHTML
+16. js Storage API - localStorage vs sessionStorage
+17. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
+18. Promise 메서드(any, try, withResolvers)
+19. JSDoc - 주석
 
 IDE feat
 1. vscode - 텍스트 범위 선택
