@@ -31,7 +31,6 @@ memo
 17. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
 18. Promise 메서드(any, try, withResolvers)
 19. JSDoc - 주석
-20. OAuth
 
 IDE feat
 1. vscode - 텍스트 범위 선택
