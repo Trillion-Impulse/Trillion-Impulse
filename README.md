@@ -28,9 +28,8 @@ memo
 14. js className vs classList
 15. js innerText vs innerHTML
 16. js Storage API - localStorage vs sessionStorage
-17. HTTP 메서드(GET, POST, PUT, PATCH, DELETE)
-18. Promise 메서드(any, try, withResolvers)
-19. JSDoc - 주석
+17. Promise 메서드(any, try, withResolvers)
+18. JSDoc - 주석
 
 IDE feat
 1. vscode - 텍스트 범위 선택
