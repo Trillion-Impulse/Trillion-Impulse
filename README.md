@@ -31,6 +31,7 @@ memo
 17. Promise 메서드(any, try, withResolvers)
 18. JSDoc - 주석
 19. CI/CD
+20. Docker
 
 IDE feat
 1. vscode - 텍스트 범위 선택
