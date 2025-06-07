@@ -30,6 +30,7 @@ memo
 16. js Storage API - localStorage vs sessionStorage
 17. Promise 메서드(any, try, withResolvers)
 18. JSDoc - 주석
+19. CI/CD
 
 IDE feat
 1. vscode - 텍스트 범위 선택
