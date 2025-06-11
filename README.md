@@ -35,6 +35,7 @@ memo
 21. Flask 로그인 라이브러리
 22. MYSQL
 23. Python DB 연동 라이브러리
+24. SQLAlchemy
 
 IDE feat
 1. vscode - 텍스트 범위 선택
