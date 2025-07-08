@@ -30,13 +30,12 @@ memo
 16. js Storage API - localStorage vs sessionStorage
 17. Promise 메서드(any, try, withResolvers)
 18. JSDoc - 주석
-19. CI/CD
-20. Docker
-21. Flask 로그인 라이브러리
-22. MYSQL
-23. Python DB 연동 라이브러리
-24. SQLAlchemy
-25. flask - jinja2
+19. Docker
+20. Flask 로그인 라이브러리
+21. MYSQL
+22. Python DB 연동 라이브러리
+23. SQLAlchemy
+24. flask - jinja2
 
 IDE feat
 1. vscode - 텍스트 범위 선택
