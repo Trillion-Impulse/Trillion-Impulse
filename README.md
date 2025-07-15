@@ -36,6 +36,7 @@ memo
 22. Python DB 연동 라이브러리
 23. SQLAlchemy
 24. flask - jinja2
+25. flask - jinja 템플릿 상속
 
 IDE feat
 1. vscode - 텍스트 범위 선택
