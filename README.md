@@ -37,6 +37,7 @@ memo
 23. SQLAlchemy
 24. flask - jinja2
 25. flask - jinja 템플릿 상속
+26. flask - jinja 주석 형식
 
 IDE feat
 1. vscode - 텍스트 범위 선택
