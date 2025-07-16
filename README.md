@@ -38,6 +38,8 @@ memo
 24. flask - jinja2
 25. flask - jinja 템플릿 상속
 26. flask - jinja 주석 형식
+27. git - 커밋하고 푸쉬 하기 전 파일 수정 및 메세지 수정
+28. git - 커밋 후 푸쉬 한경우 파일 수정 및 메세지 수정
 
 IDE feat
 1. vscode - 텍스트 범위 선택
