@@ -41,6 +41,7 @@ memo
 27. git - 커밋하고 푸쉬 하기 전 파일 수정 및 메세지 수정
 28. git - 커밋 후 푸쉬 한경우 파일 수정 및 메세지 수정
 29. OAuth2.0 vs OIDC
+30. flask - jinja2 템플릿 기본 문법
 
 IDE feat
 1. vscode - 텍스트 범위 선택
