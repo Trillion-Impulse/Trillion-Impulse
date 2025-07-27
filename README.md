@@ -36,12 +36,9 @@ memo
 22. Python DB 연동 라이브러리
 23. SQLAlchemy
 24. flask - jinja2
-25. flask - jinja 템플릿 상속
-26. flask - jinja 주석 형식
-27. git - 커밋하고 푸쉬 하기 전 파일 수정 및 메세지 수정
-28. git - 커밋 후 푸쉬 한경우 파일 수정 및 메세지 수정
-29. OAuth2.0 vs OIDC
-30. flask - jinja2 템플릿 기본 문법
+25. git - 커밋하고 푸쉬 하기 전 파일 수정 및 메세지 수정
+26. git - 커밋 후 푸쉬 한경우 파일 수정 및 메세지 수정
+27. OAuth2.0 vs OIDC
 
 IDE feat
 1. vscode - 텍스트 범위 선택
