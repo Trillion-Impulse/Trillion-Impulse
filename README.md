@@ -37,6 +37,7 @@ memo
 23. SQLAlchemy
 24. flask - jinja2
 25. OAuth2.0 vs OIDC
+26. 정규 표현식
 
 IDE feat
 1. vscode - 텍스트 범위 선택
