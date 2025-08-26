@@ -38,6 +38,7 @@ memo
 24. flask - jinja2
 25. OAuth2.0 vs OIDC
 26. 시간복잡도
+27. 알고리즘 - 조합(nCr)과 순열(nPr)
 
 IDE feat
 1. vscode - 텍스트 범위 선택
