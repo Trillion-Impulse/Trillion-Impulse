@@ -39,6 +39,7 @@ memo
 25. OAuth2.0 vs OIDC
 26. 시간복잡도
 27. 알고리즘 - 조합(nCr)과 순열(nPr)
+28. 공간복잡도
 
 IDE feat
 1. vscode - 텍스트 범위 선택
