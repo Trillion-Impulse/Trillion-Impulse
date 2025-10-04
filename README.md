@@ -39,6 +39,7 @@ memo
 25. OAuth2.0 vs OIDC
 26. 시간복잡도
 27. 공간복잡도
+28. '10'[q>[]] vs '01'[not q]
 
 IDE feat
 1. vscode - 텍스트 범위 선택
