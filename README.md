@@ -41,6 +41,7 @@ memo
 27. 공간복잡도
 28. deque의 메서드
 29. flask blueprint
+30. 페이지네이션
 
 IDE feat
 1. vscode - 텍스트 범위 선택
