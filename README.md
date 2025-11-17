@@ -41,6 +41,7 @@ memo
 27. 공간복잡도
 28. deque의 메서드
 29. flask blueprint
+30. 포트폴리오 README.md 정리
 
 IDE feat
 1. vscode - 텍스트 범위 선택
