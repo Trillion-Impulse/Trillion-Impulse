@@ -41,6 +41,8 @@ memo
 27. deque의 메서드
 28. flask blueprint
 29. 포트폴리오 README.md 정리
+30. 멀티스레드
+31. 멀티프로세싱
 
 IDE feat
 1. vscode - 텍스트 범위 선택
