@@ -44,6 +44,7 @@ memo
 30. 멀티스레드
 31. 멀티프로세싱
 32. API로 만드는 경우 vs APP으로 만드는 경우
+33. NLP
 
 IDE feat
 1. vscode - 텍스트 범위 선택
