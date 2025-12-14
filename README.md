@@ -47,6 +47,7 @@ memo
 33. NLP
 34. GHCR
 35. Github Actions
+36. Dockerfile
 
 IDE feat
 1. vscode - 텍스트 범위 선택
