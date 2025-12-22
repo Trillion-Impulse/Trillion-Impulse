@@ -49,6 +49,7 @@ memo
 35. Github Actions
 36. Dockerfile
 37. yml
+38. logging
 
 IDE feat
 1. vscode - 텍스트 범위 선택
