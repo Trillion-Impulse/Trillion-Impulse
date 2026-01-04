@@ -47,6 +47,7 @@ memo
 33. NLP
 34. Github Actions
 35. yml
+36. python - type hint
 
 IDE feat
 1. vscode - 텍스트 범위 선택
