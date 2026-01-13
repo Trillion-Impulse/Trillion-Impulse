@@ -45,9 +45,8 @@ memo
 31. 멀티프로세싱
 32. API로 만드는 경우 vs APP으로 만드는 경우
 33. NLP
-34. Github Actions
-35. yml
-36. python - type hint
+34. yml
+35. python - type hint
 
 IDE feat
 1. vscode - 텍스트 범위 선택
